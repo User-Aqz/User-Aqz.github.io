@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区颐和园路五号</b></p>
     </td>
     <td width="25%">
-      <img src="/README.md"width="100%">   
+      ![image](https://github.com/User-Aqz/User-Aqz.github.io/blob/main/README.md)
     </td>
   </tr>
 </table>
