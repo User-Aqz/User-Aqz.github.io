@@ -33,10 +33,10 @@
 ### 我知道的河南美食
 
 #### 烩面
-- [知乎展示链接]（https://zhuanlan.zhihu.com/p/361596734）
+- <a href="https://zhuanlan.zhihu.com/p/361596734">超好吃-点击看看</a>
 
 #### 道口烧鸡
-- [百度展示链接]（https://baike.baidu.com/item/%E9%81%93%E5%8F%A3%E7%83%A7%E9%B8%A1/1003987）
+- <a href="https://baike.baidu.com/item/%E9%81%93%E5%8F%A3%E7%83%A7%E9%B8%A1/1003987">也还是不错的-点击看看</a>
 - （Ps：我不太喜欢吃，鸡翅还可以哈哈😊）
 
 ### 我超喜欢吃三鲜豆腐
